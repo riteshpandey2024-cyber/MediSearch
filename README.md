@@ -119,9 +119,10 @@ As more data becomes available, the machine learning models evolve and improve p
 
 1. User enters symptoms
 2. Symptoms are processed by the ML model
-3. Disease prediction is generated
-4. Recommendations such as medications, diet, and precautions are provided
-5. Check Home , About , Contact , Developer , Blog
+3. Start speech recognition
+4. Disease prediction is generated
+5. Recommendations such as medications, diet, and precautions are provided
+6. Check Home , About , Contact , Developer , Blog
 
 ---
 
