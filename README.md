@@ -137,6 +137,11 @@ As more data becomes available, the machine learning models evolve and improve p
 
 ---
 
+## How to run this project 
+
+1. Install : pip install flask numpy pandas scikit-learn 
+2. Run : python3 main.py
+
 ## Project Goal
 
 The goal of **MediSearch** is to provide users with intelligent healthcare guidance by using machine learning to interpret symptoms and deliver meaningful medical insights.
